@@ -18,7 +18,7 @@ When we take a look at the year 2018 there are more companies in with negative r
 
 ## Why Refactor Code
 In VBA refactoring the code makes it easier to read and it executes faster. One step I refactored was referring to my array as a whole Dim tickerVolume(12) As Long is an example. I was able to do this by reading this [Array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) document. 
-I was getting errors overflow, sub or function not defined, and subscript out of range. Since I refractored my code I was able to comment out the errors. 
+I was getting errors overflow, sub or function not defined, and subscript out of range. Since I refractored my code I was able to comment out the errors. Refactoring code is not easy and it is time consuming it took me several hours just to refactor certain blocks of code specifically the "For" loops.
 
 When my code finaly ran it ran quickly as shown below for both years.
 
