@@ -18,3 +18,5 @@ When we take a look at the year 2018 there are more companies in with negative r
 
 The reason for this could be that DQ had such a high return at the end of 2017 that they opened very high and could not duplicate that in 2018.
 
+## Why Refactor Code
+In VBA refactoring the code makes it easier to read and faster to execute. One step I refactored was referring to my array as a whole Dim tickerVolume(12) As Long. I was able to do this by reading this [Array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) document. I was having an issue with overflow and variables not being de
