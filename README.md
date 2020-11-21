@@ -20,5 +20,10 @@ The reason for this could be that DQ had such a high return at the end of 2017 t
 
 ## Why Refactor Code
 In VBA refactoring the code makes it easier to read and faster to execute. One step I refactored was referring to my array as a whole Dim tickerVolume(12) As Long. I was able to do this by reading this [Array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) document. 
-I was having an issue with overflow and variables not being de
+I was getting errors overflow, sub or function not defined, and subscript out of range. Since I refractored my code I was able to comment out the errors. 
+
+When my code finaly ran it ran quickly as shown below for both years.
+
+![2017 code speed](https://github.com/AmirO8/Stock-Analysis/blob/main/Week%202%20Challenge/Resources/VBA_Challenge_2017.png)
+![2018 code speed](https://github.com/AmirO8/Stock-Analysis/blob/main/Week%202%20Challenge/Resources/VBA_Challenge_2018.png)
 
