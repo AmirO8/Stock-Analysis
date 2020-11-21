@@ -1,5 +1,8 @@
 # Stock-Analysis
 
+## Purpose
+   The purpose of the Stock Analysis was to compare total daily volume and return percentage for the years 2017 and 2018.
+
 
 ## Analysis 2017
 ![2017 Stock Analysis](https://github.com/AmirO8/Stock-Analysis/blob/main/Week%202%20Challenge/Resources/2017%20Stock%20Analysis.png)
