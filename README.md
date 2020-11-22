@@ -17,7 +17,7 @@ The highest total daily volume was SPWR at 782,187,000. TERP had the lowest retu
 When we take a look at the year 2018 there are more companies in with negative returns compared to the year 2017. ENPH and RUN were the only companies that had a positive return. RUN having the highest at 84% and DQ having the lowest at -62.6%. The reason for this could be that DQ had such a high return at the end of 2017 that they opened very high and could not duplicate that in 2018.
 
 ## Why Refactor Code
-In VBA refactoring the code makes it easier to read and it executes faster. One step I refactored was referring to my array as a whole Dim tickerVolume(12) As Long is an example. I was able to do this by reading this [Array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) document. 
+In VBA refactoring the code makes it easier to read and it executes faster. One step I refactored was referring to my array as a whole [Dim](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/dim-statement) tickerVolume(12) As Long is an example. I was able to do this by reading this [Array](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) document. 
 I was getting errors overflow, sub or function not defined, and subscript out of range. Since I refractored my code I was able to comment out the errors. Refactoring code is not easy and it is time consuming it took me several hours just to refactor certain blocks of code specifically the "For" loops.
 
 When my code finaly ran it ran quickly as shown below for both years.
